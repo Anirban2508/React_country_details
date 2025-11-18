@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "countryName":"France",
+        "capital":" Paris",
+        "population":"~68 million",
+        "key-destination":"Destinations you can visit are Eiffel Tower, Louvre Museum, Palace of Versailles, French Riviera, Mont Saint-Michel",
+        "interestingfacts":"France is the most visited country in the world, attracting over 80 million tourists annually."
+    },
+    {
+        "id": 2,
+        "countryName":"United States",
+        "capital":"Washington, D.C.",
+        "population":" ~331 million",
+        "keydestination":"Destinations you can visit are Grand Canyon, New York City, ",
+        "interestingfacts":" The U.S. has the most diverse range of national parks"
+    },
+    {
+        "id": 3 ,
+        "countryName":"Spain",
+        "capital":"Madrid",
+        "population":"~48 million",
+        "key-destination":"Destinations you can visit are Sagrada Familia, Alhambra, Ibiza, Park Güell, Seville Cathedral",
+        "interestingfacts":"Spain has the third-highest number of UNESCO World Heritage Sites in the world"
+    },
+    {
+        "id": 4,
+        "countryName":"Beijing",
+        "capital":"~1.4 billion",
+        "population":" Great Wall of China, Forbidden City, Terracotta Army, Zhangjiajie National Park, Shanghai Tower",
+        "keydestination":"Destinations you can visit",
+        "interestingfacts":"China has the world's largest high-speed rail network, spanning over 40,000 km."
+    },
+    {
+        "id": 5,
+        "countryName":"Italy",
+        "capital":"Rome",
+        "population":"~59 million",
+        "keydestination":"Destinations you can visit are Colosseum, Venice, Leaning Tower of Pisa, Amalfi Coast, Vatican City",
+        "interestingfacts":"Italy is home to the most UNESCO World Heritage Sites in the world (over 50)."
+    },
+    {
+        "id": 6,
+        "countryName":"Turkey",
+        "capital":"Ankara",
+        "population":"~86 million",
+        "keydestination":"Destinations you can visit are Hagia Sophia, Cappadocia, Pamukkale, Ephesus, Blue Mosque",
+        "interestingfacts":"Istanbul is the only city in the world that spans two continents—Europe and Asia"
+    },
+    {
+        "id": 7,
+        "countryName":"Mexico",
+        "capital":"Mexico City",
+        "population":"~129 million",
+        "keydestination":"Destinations you can visit are Chichen Itza, Cancun, Tulum, Teotihuacan, Copper Canyon",
+        "interestingfacts":"Mexico introduced the world to chocolate, chili, and corn!"
+    },
+    {
+        "id": 8,
+        "countryName":"India",
+        "capital":"New delhi",
+        "population":" ~1.42 billion",
+        "keydestination":"Destinations you can visit are taj mahaj , vrindaban , kolkata , himachal ",
+        "interestingfacts":"India is the worlds largest democracy Yoga, and Ayurveda originated in India."
+    },
+    {
+        "id": 9,
+        "countryName":"pakistan",
+        "capital":"karachi",
+        "population":" ~1.42 million with maqsat",
+        "keydestination":"dont go there ",
+        "interestingfacts":"maqsat ke naap me fatne keliye . and when they suicideblast themselves they should allah hu akbar . they need some literacy "
+    }
+
+]
